@@ -188,7 +188,7 @@ class OmniScannerPro:
         self.scan_results = []
 
         # --- CONFIGURATION ---
-        self.tg_token = "8506479078:AAGWbbILfpMvb1Gyfw-Ewq2ssmQgK2FKRCU"
+        self.tg_token = "...."
         self.tg_chatid = tg_chatid or "123456789"
         # ---------------------
 
